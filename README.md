@@ -17,7 +17,7 @@ we requried few requerements before runing the code
 
 5)enter the file location for your file
 
-6)enter the password to encryption (plz note after encryption same key want to decryption) then u have successfully encryption the file.
+6)enter the password to encryption (plz note with the same encryption key we can decryption) then u have successfully encryption the file.
 
 7)if u want to decrypt then press D and enter the file location u want to decrypt
 
